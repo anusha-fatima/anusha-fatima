@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @anusha-fatima.
 
-A front-end developer builds the front-end portion of websites.
+## 👋 Hi, I’m @anusha-fatima.
+
+  
+- A front-end developer builds the front-end portion of websites.
   
 - 👀 I’m interested to transformed into Full stack Web developer.
 
@@ -10,11 +12,13 @@ A front-end developer builds the front-end portion of websites.
   
 - 📫 How to reach me anushafatima313@gmail.com
 
-Connect with me:
-https://www.instagram.com/anusshhaha__/ https://www.facebook.com/profile.php?id=100089598554301
+- Connect with me:
+ 
+  [anusshhaha__](https://www.instagram.com/anusshhaha__/)
 
-Languages and Tools:
- c  css3  git html5 javascript
+- Languages and Tools:
+
+  c  css3  git html5 javascript
 <!---
 anusha-fatima/anusha-fatima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

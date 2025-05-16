@@ -8,7 +8,7 @@ I’m interested to transformed into Full stack Web developer.
 
 * 🌍  I'm based in Pakistan.
 * ✉️  You can contact me at [anushafatima313@gmail.com](mailto:anushafatima313@gmail.com)
-* 🧠  I'm learning react.
+* 🧠 Data Science Undergraduate
 * 🤝  I'm open to collaborating on Tech concern.
 
 ### Skills

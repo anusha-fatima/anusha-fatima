@@ -1,7 +1,7 @@
 Hi 👋 My name is Anusha fatima
 ==============================
 
-Frontend-developer
+Full-Stack-Developer
 ------------------
 
 I’m interested to transformed into Full stack Web developer.
